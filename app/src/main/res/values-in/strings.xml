@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_profile">Profil</string>
+    <string name="login">Masuk</string>
+    <string name="aleready_have_an_account">Sudah memiliki akun?</string>
+    <string name="welcome_to_story_app">Selamat datang di Story App!</string>
+    <string name="add_story_description">Tambah Cerita</string>
+    <string name="welcome_image_description">gambar selamat datang</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="password_error">Kata sandi tidak boleh kurang dari 8 karakter</string>
+    <string name="email_error">Silakan masukkan alamat email yang valid</string>
+    <string name="don_t_have_an_account">Tidak memiliki akun?</string>
+    <string name="logout">Keluar</string>
+    <string name="desc">Bagikan cerita Anda selama mengikuti Bangkit disini.</string>
+    <string name="story_image_description">Gambar Cerita</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="empty_image_warning">Silakan masukkan file gambar terlebih dahulu.</string>
+    <string name="result_empty">Hasil Kosong</string>
+    <string name="app_language">Bahasa Aplikasi</string>
+    <string name="language_icon">ikon bahasa</string>
+    <string name="no_internet">Tidak ada koneksi internet</string>
+    <string name="no_internet_description">Silakan periksa koneksi internet Anda dan coba lagi.</string>
+    <string name="ok">Oke</string>
+    <string name="retry">Coba lagi</string>
+    <string name="location_denied">Izin ditolak</string>
+    <string name="location">Lokasi</string>
+</resources>
